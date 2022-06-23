@@ -1,0 +1,26 @@
+.jumb {
+    background-image: url('./admin/assets/img/bg.jpg');
+    background-size:cover;
+    height: 300px;
+}
+.jumb h1{
+    padding-top:50px;
+    color: black;
+    font-weight: bold;
+    font-size: 100px;
+}
+.jumb h4{
+    font-size: 40px;
+    color: black;
+}
+.footer{
+    background-image:url("./admin/assets/img/bg.jpg");
+    background-size:cover;
+    color: black;
+    background-position-y:-500px;
+}
+.footer .b{
+    background-color: black;
+    color: white;
+}
+

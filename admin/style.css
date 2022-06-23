@@ -1,0 +1,9 @@
+html,body {
+    background-image: url(./assets/img/bg3.jpg);
+    background-size: cover;
+    background-position-y: -30px;
+}
+
+h5{
+    color: white;
+}
